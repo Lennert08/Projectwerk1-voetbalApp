@@ -1,0 +1,219 @@
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.sourcelink.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.sourcelink.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.sourcelink.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.sourcelink.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.exe
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.deps.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Persistence.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup_MarkupCompile.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.sourcelink.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalP.66E558B8.Up2Date
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\refint\VoetbalProject.Startup.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\VoetbalProject.Startup.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Startup\obj\Debug\net8.0-windows\ref\VoetbalProject.Startup.dll

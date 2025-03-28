@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Windows\AfwezigheidScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\DatumTrainingScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\GroepenSelectieScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\HomeScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\LoginScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\MainScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\OverzichtScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\OverzichtSpelersScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\RegistreerScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\SpelerAanmakenScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\SpelerBewerkScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\SpelerScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\ThemaSelectieScherm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Windows\AfwezigheidScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\DatumTrainingScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\GroepenSelectieScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\HomeScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\LoginScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\MainScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\OverzichtScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\OverzichtSpelersScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\RegistreerScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\SpelerAanmakenScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\SpelerBewerkScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\SpelerScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\ThemaSelectieScherm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

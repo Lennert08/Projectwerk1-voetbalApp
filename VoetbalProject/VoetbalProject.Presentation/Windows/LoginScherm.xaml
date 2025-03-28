@@ -1,0 +1,46 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.LoginScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoetbalProject.Presentation.Windows"
+        mc:Ignorable="d"
+        Title="LoginScherm" Height="700" Width="350">
+    <Grid Background="Beige">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Inloggen" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="UltraBold"></Label>
+        <Label Grid.Row="1" Content="Gebruikersnaam" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+        <TextBox Grid.Row="2" Name="IngegevenGebruikersNaam" Margin="10" Padding="5"></TextBox>
+        <Label Grid.Row="3" Content="Wachtwoord" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+        <TextBox Grid.Row="4" Name="IngegevenWachtwoord" Margin="10" Padding="5"></TextBox>
+
+
+        <Button Grid.Row="5" Content="Login" Name="SaveSpeler" Margin="10"   Background="ForestGreen" Foreground="White" Width="200" Height="40">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
+       
+        <Button Grid.Row="7" Content="Registreer" Name="Sa" Margin="10"  Background="ForestGreen" Foreground="White" Width="200" Height="40">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

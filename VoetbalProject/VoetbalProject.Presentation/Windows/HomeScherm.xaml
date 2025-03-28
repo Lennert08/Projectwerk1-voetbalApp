@@ -1,0 +1,82 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.HomeScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoetbalProject.Presentation.Windows"
+        mc:Ignorable="d"
+        Title="HomeScherm" Height="700" Width="350" MinHeight="700"  MinWidth="350" Background="Beige">    
+    <Grid Background="Beige">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="98*"/>
+        </Grid.RowDefinitions>
+
+        <!--  NavigatieBar -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Home" Background="ForestGreen" Grid.Column="0" FontFamily="Verdana" BorderThickness="0" Foreground="Black"  FontSize="17" Tag="HomeWindow" />
+            <Button Content="Overzicht" Background="ForestGreen" Grid.Column="1" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="OverzichtScherm" />
+            <Button Content="Spelers" Background="ForestGreen" Grid.Column="2" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="SpelerScherm" />
+            <Button Content="Groepen" Background="ForestGreen" Grid.Column="3" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="GroepScherm"/>
+        </Grid>
+
+        <!--  All De Rest -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1.1*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1.1*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1.1*"/>
+            </Grid.RowDefinitions>
+
+            
+            <Label Name="groeplabel"  Grid.Row="0" Content="CurrentGroep" HorizontalAlignment="Right" />
+
+            <Button Grid.Row="1" Click="NavigateToNextWindow" HorizontalAlignment="Center" Background="Beige" BorderThickness="0" Tag="DatumTrainingScherm">
+                <Image Grid.Row="5" Source="Images/TrainingImage.png" Height="125" />
+            </Button >
+            <!--Training-->
+            <Button x:Name="TrainingButton" Content="Training aanmaken" Grid.Row="2" Width="190" Click="NavigateToNextWindow" Tag="DatumTrainingScherm" FontFamily="Verdana" Foreground="White" Background="ForestGreen" Margin="0 0 0 10">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <!--Create Speler-->
+            <Button Grid.Row="3" Click="NavigateToNextWindow" HorizontalAlignment="Center" Background="Beige" BorderThickness="0" Tag="SpelerAanmakenScherm" >
+                <Image Grid.Row="3" Source="Images/AddPlayerImage.png" Height="125" />
+            </Button>
+            <Button x:Name="CreateButton" Content="Speler aanmaken" Grid.Row="4" Width="190" Click="NavigateToNextWindow" Tag="SpelerAanmakenScherm"  FontFamily="Verdana" Foreground="White" Background="ForestGreen" Margin="0 0 0 10">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <!--Excel-->
+            <Button Grid.Row="5" Click="Exporteer_NaarTekstFile" HorizontalAlignment="Center" Background="Beige" BorderThickness="0" Tag="TrainingWindow" >
+                <Image Grid.Row="5" Source="Images/ExcelImage.png" Height="125" />
+            </Button>
+
+
+            <Button x:Name="Export" Content="Export" Grid.Row="6" Width="190" Margin="0 0 0 10"  FontFamily="Verdana" Foreground="White" Background="ForestGreen" Click="Exporteer_NaarTekstFile">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

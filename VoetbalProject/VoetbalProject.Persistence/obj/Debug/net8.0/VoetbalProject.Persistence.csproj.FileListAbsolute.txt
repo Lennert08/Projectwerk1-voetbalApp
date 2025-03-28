@@ -1,0 +1,105 @@
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.sourcelink.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.sourcelink.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.sourcelink.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.runtimeconfig.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.genruntimeconfig.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.runtimeconfig.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.genruntimeconfig.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.runtimeconfig.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.genruntimeconfig.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.runtimeconfig.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.sourcelink.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.genruntimeconfig.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.deps.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\bin\Debug\net8.0\VoetbalProject.Domain.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.sourcelink.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalP.F377ED79.Up2Date
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\refint\VoetbalProject.Persistence.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\VoetbalProject.Persistence.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Persistence\obj\Debug\net8.0\ref\VoetbalProject.Persistence.dll

@@ -1,0 +1,21 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.DatumTrainingScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DatumTrainingScherm" Height="700" Width="350" MinHeight="700" MinWidth="350">
+
+    <Grid Background="Beige">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" FontSize="30" Name="GroepNaam" Text="U13" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        <TextBlock Grid.Row="1" FontSize="30" Text="Selecteer" TextWrapping="Wrap" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        
+        <!-- Kalender, met Loaded-event -->
+        <Viewbox Grid.Row="2" VerticalAlignment="Top">
+            <Calendar Name="TrainingCalendar" VerticalAlignment="Top" Background="LimeGreen" FontWeight="DemiBold" SelectedDatesChanged="Calendar_SelectedDatesChanged"/>
+        </Viewbox>
+    </Grid>
+</Window>

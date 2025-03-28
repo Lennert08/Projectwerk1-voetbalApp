@@ -1,0 +1,55 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.AfwezigheidScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoetbalProject.Presentation.Windows"
+        mc:Ignorable="d"
+        Title="AfwezigheidScherm" Height="700" Width="350" MinHeight="700" MaxHeight="700" MinWidth="350" MaxWidth="350">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="10*"/>
+
+        </Grid.RowDefinitions>
+        <Border BorderThickness="3" BorderBrush="LimeGreen">
+            <TextBlock Name="SelectedPlayerText" Text="Geselecteerde Speler" HorizontalAlignment="Center" FontSize="30" Height="50" FontWeight="Bold"/>
+        </Border>
+        <ListBox Name="Afwezigheiden" FontSize="30" Background="White" Margin="0,0,0,0" Grid.Row="1">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Name="AanwezigTextBlock" Grid.Row="0" Margin="0,15,0,35" Visibility="Collapsed"  >Aanwezig</TextBlock>
+                <RadioButton Name="AanwezigRadioButton" GroupName="1" VerticalAlignment="Center" Grid.Row="0" Margin="300,15,0,35" Checked="RedenButtonSelected" Tag="Aanwezig" Visibility="Collapsed"/>
+
+                <TextBlock Grid.Row="1" Margin="0,15,0,35"  >Geen reden</TextBlock>
+                <RadioButton GroupName="1" VerticalAlignment="Center" Grid.Row="1" Margin="300,15,0,35" Checked="RedenButtonSelected" Tag="Geen Reden"/>
+
+                <TextBlock Grid.Row="2" Margin="0,7,0,35"  >Ziekte</TextBlock>
+                <RadioButton GroupName="1" VerticalAlignment="Center" Grid.Row="2" Margin="300,0,0,35" Checked="RedenButtonSelected" Tag="Ziekte"/>
+                
+                <TextBlock Grid.Row="3"  Margin="0,7,0,35">Blessure</TextBlock>
+                <RadioButton GroupName="1" Grid.Row="3" VerticalAlignment="Center"  Margin="300,0,0,35" Checked="RedenButtonSelected" Tag="Blessure"/>
+                
+                <TextBlock Grid.Row="4" Margin="0,7,0,35">Dokter Afspraak</TextBlock>
+                <RadioButton GroupName="1" Grid.Row="4" VerticalAlignment="Center"  Margin="300,0,0,35" Checked="RedenButtonSelected" Tag="Dokter Afspraak"/>
+                
+                <TextBlock Grid.Row="5" Margin="0,7,0,10">Overige</TextBlock>
+                <RadioButton  GroupName="1" Grid.Row="5" VerticalAlignment="Center"  Margin="300,0,0,35" Checked="OtherButtonSelected"/>
+                <TextBox Name="OtherTextBox" Grid.Row="6" Height="135" FontSize="25" MaxWidth="320" AcceptsReturn="True" IsEnabled="False" MaxLength="15"/>
+            </Grid>
+
+        </ListBox>
+        <Button Name="SaveButton" Content="Save" Grid.Row="2" Background="LimeGreen" Foreground="White" FontSize="15" IsEnabled="False" Click="SaveButtonClicked"/>
+    </Grid>
+</Window>

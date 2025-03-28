@@ -1,0 +1,91 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.ThemaSelectieScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoetbalProject.Presentation.Windows"
+        mc:Ignorable="d"
+        Title="ThemaSelectieScherm" Height="700" Width="350" MinHeight="700"  MinWidth="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6.25*" />
+            <RowDefinition Height="6.25*" />
+            <RowDefinition Height="83.04*" />
+            <RowDefinition Height="4.46*" />
+        </Grid.RowDefinitions>
+
+
+        <!--  NavigatieBar -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="HomeButton" Content="Home" Background="ForestGreen" Grid.Column="0" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="HomeScherm" />
+            <Button Content="Overzicht" Background="ForestGreen" Grid.Column="1" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="OverzichtScherm" />
+            <Button Content="Spelers" Background="ForestGreen" Grid.Column="2" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="SpelerScherm" />
+            <Button Content="Groepen" Background="ForestGreen" Grid.Column="3" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="GroepScherm"/>
+        </Grid>
+
+        <!--  Datum en group en titel-->
+        <Grid Background="Beige" Grid.Row="1">
+            <TextBlock Text="U18" FontFamily="Verdana" FontStyle="Italic" Margin="3" Name="GroupName"/>
+            <TextBlock Text="Selecteer Thema" FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,8,0,0"  />
+            <TextBlock Name="DatumText" FontFamily="Verdana" Text="Datum" FontStyle="Italic" Margin="3,3,7,3" HorizontalAlignment="Right" />
+        </Grid>
+
+        <!--  ThemaKnoppen -->
+
+        <StackPanel Grid.Row="2" Background="Beige">
+
+            <Button Content="Geen thema" Margin="20" Padding="6" FontSize="25" FontFamily="Verdana" Background="DimGray" Foreground="White" Click="ThemaButtonClicked">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button Content="Verdedigen" Margin="20" Padding="14" FontSize="25" FontFamily="Verdana" Background="ForestGreen" Foreground="White" Click="ThemaButtonClicked" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button Content="Schieten" Margin="20" Padding="14" FontSize="25" FontFamily="Verdana" Background="ForestGreen" Foreground="White" Click="ThemaButtonClicked" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button Content="Passen" Margin="20" Padding="14" FontSize="25" FontFamily="Verdana" Background="ForestGreen" Foreground="White" Click="ThemaButtonClicked" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button Content="Dribbelen" Margin="20" Padding="14" FontSize="25" FontFamily="Verdana" Background="ForestGreen" Foreground="White" Click="ThemaButtonClicked" >
+                <Button.Resources>
+                    
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <TextBlock Text="Andere:" Margin="20,0,20,0" FontFamily="Verdana" FontSize="13"/>
+            <TextBox Padding="10" Margin="20,5,20,0" MaxWidth="320" AcceptsReturn="True" GotFocus="UserSelectesTextBox" SelectionChanged="CheckOfUserInputNietLeegIs" Name="OtherTextBox" MaxLength="20"/>
+        </StackPanel>
+
+        <Button Grid.Row="3" Name="VolgendeButton" Content="Volgende" FontSize="15" Background="ForestGreen" Foreground="White" IsEnabled="False" Click="VolgendeButtonClicked"/>
+    </Grid>
+</Window>

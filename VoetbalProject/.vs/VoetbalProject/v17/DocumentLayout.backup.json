@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457D4465-46CB-40E9-9537-E2F416D57ED7}|UnitTests\\UnitTests.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457D4465-46CB-40E9-9537-E2F416D57ED7}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457D4465-46CB-40E9-9537-E2F416D57ED7}|UnitTests\\UnitTests.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{457D4465-46CB-40E9-9537-E2F416D57ED7}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.presentation\\windows\\homescherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|solutionrelative:voetbalproject.presentation\\windows\\homescherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.domain\\domainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|solutionrelative:voetbalproject.domain\\domainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.presentation\\windows\\datumtrainingscherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|solutionrelative:voetbalproject.presentation\\windows\\datumtrainingscherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.persistence\\repositories\\trainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|solutionrelative:voetbalproject.persistence\\repositories\\trainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.persistence\\repositories\\groeprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|solutionrelative:voetbalproject.persistence\\repositories\\groeprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.domain\\interfaces\\itraininginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|solutionrelative:voetbalproject.domain\\interfaces\\itraininginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.domain\\interfaces\\igroepinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|solutionrelative:voetbalproject.domain\\interfaces\\igroepinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.domain\\models\\groep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|solutionrelative:voetbalproject.domain\\models\\groep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.domain\\models\\geselecteerdegroepclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9538606D-AEBB-44E3-839F-C8BFA46D4A6D}|VoetbalProject.Domain\\VoetbalProject.Domain.csproj|solutionrelative:voetbalproject.domain\\models\\geselecteerdegroepclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.presentation\\windows\\spelerscherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0123989D-4C60-4042-AD43-EA6B0F2B1743}|VoetbalProject.Presentation\\VoetbalProject.Presentation.csproj|solutionrelative:voetbalproject.presentation\\windows\\spelerscherm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|c:\\users\\hp\\documents\\github\\projectwerk\\voetbal_3lagen\\voetbalproject\\voetbalproject.persistence\\repositories\\spelerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40953D-2DD1-418F-86C8-619DC1C64022}|VoetbalProject.Persistence\\VoetbalProject.Persistence.csproj|solutionrelative:voetbalproject.persistence\\repositories\\spelerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:30:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTests",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T21:30:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeScherm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\HomeScherm.xaml.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Presentation\\Windows\\HomeScherm.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\HomeScherm.xaml.cs",
+              "RelativeToolTip": "VoetbalProject.Presentation\\Windows\\HomeScherm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:52:30.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITrainingInterface.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Interfaces\\ITrainingInterface.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Domain\\Interfaces\\ITrainingInterface.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Interfaces\\ITrainingInterface.cs",
+              "RelativeToolTip": "VoetbalProject.Domain\\Interfaces\\ITrainingInterface.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:02:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\TrainingRepository.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Persistence\\Repositories\\TrainingRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\TrainingRepository.cs",
+              "RelativeToolTip": "VoetbalProject.Persistence\\Repositories\\TrainingRepository.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAA8wDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:02:53.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatumTrainingScherm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\DatumTrainingScherm.xaml.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Presentation\\Windows\\DatumTrainingScherm.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\DatumTrainingScherm.xaml.cs",
+              "RelativeToolTip": "VoetbalProject.Presentation\\Windows\\DatumTrainingScherm.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:49:12.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\DomainManager.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Domain\\DomainManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\DomainManager.cs",
+              "RelativeToolTip": "VoetbalProject.Domain\\DomainManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:53:48.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroepRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\GroepRepository.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Persistence\\Repositories\\GroepRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\GroepRepository.cs",
+              "RelativeToolTip": "VoetbalProject.Persistence\\Repositories\\GroepRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:13:54.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGroepInterface.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Interfaces\\IGroepInterface.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Domain\\Interfaces\\IGroepInterface.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Interfaces\\IGroepInterface.cs",
+              "RelativeToolTip": "VoetbalProject.Domain\\Interfaces\\IGroepInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:15:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Groep.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Models\\Groep.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Domain\\Models\\Groep.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Models\\Groep.cs",
+              "RelativeToolTip": "VoetbalProject.Domain\\Models\\Groep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:11:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GeselecteerdeGroepClass.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Models\\GeselecteerdeGroepClass.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Domain\\Models\\GeselecteerdeGroepClass.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Domain\\Models\\GeselecteerdeGroepClass.cs",
+              "RelativeToolTip": "VoetbalProject.Domain\\Models\\GeselecteerdeGroepClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:12:08.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpelerScherm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\SpelerScherm.xaml.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Presentation\\Windows\\SpelerScherm.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Presentation\\Windows\\SpelerScherm.xaml.cs",
+              "RelativeToolTip": "VoetbalProject.Presentation\\Windows\\SpelerScherm.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwCQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:25:20.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpelerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\SpelerRepository.cs",
+              "RelativeDocumentMoniker": "VoetbalProject.Persistence\\Repositories\\SpelerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\Projectwerk\\Voetbal_3Lagen\\VoetbalProject\\VoetbalProject.Persistence\\Repositories\\SpelerRepository.cs",
+              "RelativeToolTip": "VoetbalProject.Persistence\\Repositories\\SpelerRepository.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwLYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:50:02.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

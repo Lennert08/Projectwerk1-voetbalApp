@@ -1,0 +1,269 @@
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.sourcelink.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.sourcelink.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\adaly\Downloads\Voetbal_3Lagen Goat\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.sourcelink.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.sourcelink.json
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.baml
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.g.cs
+C:\Users\souli\Documents\project1\Projectwerk\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.g.cs
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.baml
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.g.cs
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.baml
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.g.cs
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.baml
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.runtimeconfig.json
+C:\non_ondrive_map\Vakken_sem3\Projectwerk1\voetbal_app\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.genruntimeconfig.cache
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.runtimeconfig.json
+C:\Users\adaly\Desktop\Werkveld\2nd chance\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.genruntimeconfig.cache
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.runtimeconfig.json
+C:\Users\Shaun\Desktop\Programmeren\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.deps.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\bin\Debug\net8.0-windows\VoetbalProject.Domain.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\DatumTrainingScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.g.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation_MarkupCompile.lref
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\AfwezigheidScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\GroepenSelectieScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\HomeScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\LoginScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\MainScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\OverzichtSpelersScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\RegistreerScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerAanmakenScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerBewerkScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\SpelerScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\Windows\ThemaSelectieScherm.baml
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.g.resources
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.AssemblyInfo.cs
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.sourcelink.json
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalP.943071A4.Up2Date
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\refint\VoetbalProject.Presentation.dll
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.pdb
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\VoetbalProject.Presentation.genruntimeconfig.cache
+C:\Users\hp\Documents\GitHub\Projectwerk\Voetbal_3Lagen\VoetbalProject\VoetbalProject.Presentation\obj\Debug\net8.0-windows\ref\VoetbalProject.Presentation.dll

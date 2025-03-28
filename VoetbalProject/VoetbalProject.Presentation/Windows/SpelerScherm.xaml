@@ -1,0 +1,105 @@
+﻿<Window x:Class="VoetbalProject.Presentation.Windows.SpelerScherm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoetbalProject.Presentation.Windows"
+        mc:Ignorable="d"
+        Title="SpelerScherm" Height="700" Width="350" MinHeight="700"  MinWidth="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="90*"/>
+        </Grid.RowDefinitions>
+
+        <!--  NavigatieBar -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Home" Background="ForestGreen" Grid.Column="0" FontFamily="Verdana" BorderThickness="0" Foreground="White"  FontSize="17" Click="NavigateToNextWindow" Tag="HomeScherm"/>
+            <Button Content="Overzicht" Background="ForestGreen" Grid.Column="1" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="OverzichtScherm"/>
+            <Button Content="Spelers" Background="ForestGreen" Grid.Column="2" FontFamily="Verdana" BorderThickness="0" Foreground="Black" FontSize="17"/>
+            <Button Content="Groepen" Background="ForestGreen" Grid.Column="3" FontFamily="Verdana" BorderThickness="0" Foreground="White" FontSize="17" Click="NavigateToNextWindow" Tag="GroepScherm"/>
+        </Grid>
+
+        <!--  Delete en bewerk buttons -->
+        <Grid Grid.Row="1" Background="Beige">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="BewerkButton" IsEnabled="False" Grid.Column="0" Content="Bewerk" Margin="11" FontSize="18" FontFamily="Verdana" Foreground="White" Background="#6c757d" Click="BewerkButtonClicked">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button Name="VerwijderButton" IsEnabled="False" Grid.Column="1" Content="Verwijder" Margin="11" FontSize="18" FontFamily="Verdana" Foreground="White" Background="#E53935" Click="VerwijderButton_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+
+        <!--  Info over Spelers -->
+        <Grid Grid.Row="2" Background="Beige">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60*"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="25*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="95*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0" Grid.Row="0" Margin="10,4,4,4" Text="Naam" FontFamily="Verdana" FontSize="11" FontWeight="Bold"/>
+            <TextBlock Grid.Column="1" Grid.Row="0" Margin="10,4,4,4" Text="Rugnr" FontFamily="Verdana" FontSize="11" FontWeight="Bold"/>
+            <TextBlock Grid.Column="2" Grid.Row="0" Margin="10,4,4,4" Text="Aanw. %." FontFamily="Verdana" FontSize="11" FontWeight="Bold"/>
+
+            <ScrollViewer Grid.Column="0" Grid.Row="1" Name="NaamScrollViewer" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" ScrollChanged="ScrollViewer_ScrollChanged" PreviewMouseWheel="ScrollViewer_PreviewMouseWheel">
+            <ListBox Name="PlayerList" FontSize="20" Grid.Column="0" Grid.Row="1" Background="Beige" SelectionChanged="SpelerListBoxSelected" ScrollViewer.HorizontalScrollBarVisibility="Disabled"  ScrollViewer.VerticalScrollBarVisibility="Disabled" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" Margin="10" FontFamily="Verdana" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="17"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            </ScrollViewer>
+
+            <ScrollViewer Grid.Column="1" Grid.Row="1" Name="RugNrScrollViewer" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" ScrollChanged="ScrollViewer_ScrollChanged" PreviewMouseWheel="ScrollViewer_PreviewMouseWheel">
+                <ListBox Name="RugNummerList" FontSize="20" Grid.Column="1" Grid.Row="1" Background="Beige" IsHitTestVisible="False" ScrollViewer.VerticalScrollBarVisibility="Disabled"> 
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding RugNummer}" Margin="10" FontFamily="Verdana" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="17" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            </ScrollViewer>
+
+            <ScrollViewer Grid.Column="2" Grid.Row="1" Name="AanwScrollViewer" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Hidden" ScrollChanged="ScrollViewer_ScrollChanged" PreviewMouseWheel="ScrollViewer_PreviewMouseWheel">
+            <ListBox Name="AanwezigheidsProcentList" FontSize="20" Grid.Column="2" Grid.Row="1" Background="Beige" IsHitTestVisible="False" ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding GeformatteerdeProcent}" Margin="10" FontFamily="Verdana" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="17" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            </ScrollViewer>
+        </Grid>
+       
+        
+    </Grid>
+</Window>

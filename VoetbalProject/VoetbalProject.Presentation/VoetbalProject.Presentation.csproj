@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Windows\Images\AddPlayerImage.png" />
+    <None Remove="Windows\Images\ExcelImage.png" />
+    <None Remove="Windows\Images\TrainingImage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VoetbalProject.Domain\VoetbalProject.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Windows\Images\AddPlayerImage.png" />
+    <Resource Include="Windows\Images\ExcelImage.png" />
+    <Resource Include="Windows\Images\TrainingImage.png" />
+  </ItemGroup>
+
+</Project>
